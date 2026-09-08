@@ -1,4 +1,4 @@
 import os
 
 print(os)
-print("in main1")
+print("in main")
